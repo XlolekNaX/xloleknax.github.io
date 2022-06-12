@@ -1,0 +1,106 @@
+body {
+    background: #dee09b;
+    margin: 0;
+}
+
+
+#powitanie {
+    font-size: 28px;
+    text-align: center;
+    padding: 30px;
+    color: #881515;
+    border-bottom: 4px solid #648f55;
+    background: #bee8ac;
+}
+
+
+
+#weather_container {
+    background: #d1ffcc;
+    text-align: center;
+    padding-bottom: 80px;
+    padding-top: 30px;
+}
+
+
+
+.lokalizacja {
+    font-size: 25px;
+    margin: 0;
+}
+
+
+
+.pogoda {
+    font-size: 25px;
+    margin: 0;
+}
+
+
+
+.temperatura {
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+}
+
+
+
+img {
+    width: 80px;
+    height: 80px;
+}
+
+
+
+.predkosc_wiatru {
+    font-size: 25px;
+    margin: 4px;
+}
+
+
+.wilgotnosc {
+    font-size: 25px;
+    margin: 4px;
+}
+
+
+.cisnienie {
+    font-size: 25px;
+    margin: 4px;
+}
+
+
+
+
+.stopka {
+    background: #a3cb95;
+    font-size: 17px;
+    text-align: center;
+    color: #090909;
+    border-top: 4px solid #a3cb95;
+    padding: 7px;
+}
+
+
+input {
+    font-size: 22px;
+    width: 140px;
+    background: #a3cb95;
+    border: 2px dashed #648f55;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+}
+
+
+
+button {
+    font-size: 20px;
+    background: #82cc66;
+    height: 31px;
+}
+
+button:hover {
+    background: #a3cb95;
+}
